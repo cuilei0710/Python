@@ -1,7 +1,6 @@
 {
     //Debug setting
     "debug.onTaskErrors": "showErrors",
-
     //Files exclude setting
     "files.exclude": {
         "**/.git": true,
@@ -12,7 +11,8 @@
         "**/.vscode": true,
         "**/.gitignore": true,
     },
-
     // editor setting
     "editor.formatOnType": true,
+    // fileheader setting
+    "fileheader.tpl": "#Author: {author}\n#Date: {createTime}\n#Last Modified by:   {lastModifiedBy} \r\n#Last Modified time: {updateTime} \r\n",
 }
