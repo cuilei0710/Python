@@ -12,7 +12,7 @@
             "cwd": "${workspaceFolder}",
             "env": {},
             "envFile": "${workspaceFolder}/.env",
-            "console": "externalTerminal",
+            "console": "integratedTerminal",
             "redirectOutput": true,
         }
     ]
