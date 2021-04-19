@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "yzhang.markdown-all-in-one",
-        "donjayamanne.python-extension-pack"
+        "donjayamanne.python-extension-pack",
+        "techer.open-in-browser"
     ]
 }
